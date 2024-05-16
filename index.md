@@ -46,8 +46,5 @@ title: Welcome
 这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，博客的源码托管在[Github](https://github.com/CurtisYan/asiay.github.io.git)上，如果你也想拥有一个一样的Blog，可以直接在github上fork这个项目，教程可以见[在Github上搭建Jekyll博客和创建主题](https://www.asiay.asia/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
 
 
-<<<<<<< Updated upstream
-如果有问题可以直接评论,或是给我发邮件。除此之外可以通过RRS订阅blog的更新，点击左下角两个图标即可。如果觉得对你有所帮助，就给我点个赞或是[github上follow](https://github.com/coolnameismy/)。谢谢大家的支持。
 =======
 如果有问题可以直接评论,或是给我发邮件。除此之外可以通过RRS订阅blog的更新，点击左下角两个图标即可。如果觉得对你有所帮助，就给我点个赞或是[github上follow](https://github.com/CurtisYan/)。谢谢大家的支持。
->>>>>>> Stashed changes
