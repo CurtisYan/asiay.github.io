@@ -19,7 +19,7 @@ title: Welcome
 ![](assets/images/yanqibo.jpg)
 
 
-我叫严琪博，一个萌新程序员，目前就读于广州软件学院,花名江南易。技术上熟悉Java，Web前端，Python，数据结构。所以博客中主要包含的技术类型主要是这些，另外也会写一个自己不熟悉但是感兴趣的内容，和大家一起学习。
+我叫严琪博，一个萌新程序员，目前就读于广州软件学院，花名江南易。技术上熟悉Java，Web前端，Python，数据结构。所以博客中主要包含的技术类型主要是这些，另外也会写一个自己不熟悉但是感兴趣的内容，和大家一起学习。
 
 -   Java 
 -	Web前端
@@ -37,8 +37,8 @@ title: Welcome
 ## 博客中示例程序代码下载：
 ---
 
--	[java demo]()
--	[python demo]()
+-	[java demo](https://github.com/CurtisYan/Java-demo)
+-	[python demo](https://github.com/CurtisYan/Python-demo)
 
 ## 最后
 ---
