@@ -73,7 +73,6 @@ description: > #严琪博的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://asiay.asia" # the base hostname & protocol for your site
 # url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
-twitter_username: CurtisYan
 github_username:  CurtisYan
 
 #  Build settings
@@ -84,7 +83,6 @@ author:                                     #自定义常亮
   name: 严琪博
   email: 3484488888@qq.com
   link: http://asiay.asia
-  weibo: https://weibo.com/7814004496
   github: https://github.com/CurtisYan
 title: 严琪博的技术博客                             #自定义常量
 
@@ -255,7 +253,7 @@ title: 首页
 图片我都放在了`/assets/upload`下。
 
 ###  方便的图片导入
-导入图片的方式我是将图片上传到图床，然后使用图片[链接地址](https://www.imgtp.com/)。
+导入图片的方式我是将图片上传到图床，然后使用[图片的链接地址](https://www.imgtp.com/)。
 
 ###  方便的截图
 很多时候图片都是现截取的，比如用Snipaste截图工具，或者QQ的截图工具，然后粘贴在`/assets/upload`或`/assets/images`中
@@ -297,4 +295,4 @@ git push
 
 
 ##  参考内容
-
+[https://blog.csdn.net/li396864285/article/details/112532333](https://blog.csdn.net/li396864285/article/details/112532333)
