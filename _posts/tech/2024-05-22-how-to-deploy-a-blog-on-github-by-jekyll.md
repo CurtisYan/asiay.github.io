@@ -253,7 +253,8 @@ title: 首页
 图片我都放在了`/assets/upload`下。
 
 ###  方便的图片导入
-导入图片的方式我是将图片上传到图床，然后使用[图片的链接地址](https://www.imgtp.com/)。
+导入图片的方式我是使用阿里云对象存储OSS+PicGo搭建图床，百度可搜教程  
+当然，你也可以使用网上比较大型的公共免费图床[点击这里](https://www.imgtp.com/)。
 
 ###  方便的截图
 很多时候图片都是现截取的，比如用Snipaste截图工具，或者QQ的截图工具，然后粘贴在`/assets/upload`或`/assets/images`中
