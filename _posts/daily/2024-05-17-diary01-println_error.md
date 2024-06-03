@@ -12,7 +12,7 @@ description:
 
 ##  问题描述
 
-![无法解析符号](https://img2.imgtp.com/2024/05/17/AtILpBsx.png "无法解析符号")
+![无法解析符号](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/problem_println_solving1.jpg?Expires=1717423097&OSSAccessKeyId=TMP.3KiYG93eooANRD16puJPEkWCqswMr4wenUsVRmciJUeWsZBsEFxGX3qFrBpqJeoo5U7XptQTNAqTpYieqcRpKL8E6cZtKV&Signature=48Zad4xGyv5sRsxK43R%2BE7%2BEiGA%3D "无法解析符号")
 
 可以看到，我这行代码提示无法解析println,我刚学java时跟着学校的课程走，老师讲的不是很生动，加上我半吊子的学习态度。自然而然在后续的敲代码过程中，各种问题百出。
 
@@ -28,10 +28,10 @@ description:
 
 解决方法1：写在类中。
 
-![无法解析符号解决一](https://img2.imgtp.com/2024/05/17/xru6tLAJ.png "无法解析符号解决一")
+![无法解析符号解决一](https://www.asiay.asia//img/problem_println.jpg "无法解析符号解决一")
 
 解决方法2：加上大括号，让它变成普通块。
-![无法解析符号解决二](https://img2.imgtp.com/2024/05/17/2jtMtzZK.png "无法解析符号解决二")
+![无法解析符号解决二](https://www.asiay.asia//img/problem_println_solving2.jpg "无法解析符号解决二")
 
 加上大括号之后，println不标红了。
 
