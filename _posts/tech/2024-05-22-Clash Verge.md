@@ -11,7 +11,7 @@ description:
     这时候掌握科学上网方式尤为重要
 
 
-![Clash Verge](https://img2.imgtp.com/2024/05/22/7RsOH3iC.webp "Clash Verge")
+![Clash Verge](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032329567.webp "Clash Verge")
 
 
 #  注意事项
@@ -36,13 +36,13 @@ Clash Verge 是代理工具 Clash 内核的 GUI 图形客户端，支持 Windows
 
 主页：
 
-![主页](https://img2.imgtp.com/2024/05/22/CMi6mmNy.jpg "主页")
+![主页](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032331306.jpg "主页")
 
 和 Clash For Windows 的界面十分相似，方便上手。
 
 如果显示英文，在 Settings 里面找到 Language 选项，然后选择中文，如下图所示。
 
-![设置里选择中文](https://img2.imgtp.com/2024/05/22/np0QQWeS.png "设置里选择中文")
+![设置里选择中文](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032332629.png "设置里选择中文")
 
 #  使用教程
 ## 第一步：下载 Clash Verge 并安装
@@ -55,15 +55,15 @@ Clash Verge 是代理工具 Clash 内核的 GUI 图形客户端，支持 Windows
 ## 第二步（方案 A）：一键导入订阅
 打开 [infiniport](https://console.infiniport.xyz/#/register?code=559c9hxz)，点击一键导入 Clash.
 
-![infiniport导入订阅](https://img2.imgtp.com/2024/05/22/Fg02ZQOz.png "infiniport导入订阅")
+![infiniport导入订阅](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032333490.png "infiniport导入订阅")
 
 ````
 如果你没有购买套餐，或者套餐已经过期，订阅链接将不会显示。
 ````
 
- 浏览器会弹出这样的弹窗，点击不是取消的那个按钮。不同浏览器显示的按钮可能不一样，但必定是点不是取消的那个按钮
+ 浏览器会弹出这样的弹窗，点击不是取消的那个按钮。不同浏览器显示的按钮可能不一样，但必定是点**不是**取消的那个按钮
 
-![](https://img2.imgtp.com/2024/05/22/DAHOusR7.png )
+![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032334595.png )
 
 现在，打开 Clash Verge 的配置界面，你应该能看到订阅已经导入。
 
@@ -74,18 +74,18 @@ Clash Verge 是代理工具 Clash 内核的 GUI 图形客户端，支持 Windows
 ## 第二步（方案 B）：手动导入订阅
  打开 [infiniport](https://console.infiniport.xyz/#/register?code=559c9hxz)，点击一键订阅中的Windows中的复制订阅地址。
  
-![复制订阅地址](https://img2.imgtp.com/2024/05/22/OCJ8NcgX.png "复制订阅地址")
+![复制订阅地址](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032336926.png "复制订阅地址")
         
 
  打开 Clash Verge，点击左侧的「配置」，在上方输入框中粘贴订阅链接，点击「导入」。
 
-![导入](https://img2.imgtp.com/2024/05/22/urroMeNC.png "导入")
+![导入](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032337736.png "导入")
 
 
 ## 第三步：选择想要的节点
 切换到「代理」界面，你会看到这样的
 
- ![代理](https://img2.imgtp.com/2024/05/22/gc0yfjhJ.png "代理")
+ ![代理](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032337957.png "代理")
     
 类似于 Clash For Windows，上面有 4 个选项，对应了 Clash 3 种工作模式。
 
@@ -98,7 +98,7 @@ Clash Verge 是代理工具 Clash 内核的 GUI 图形客户端，支持 Windows
 
 选择你需要的代理模式，然后，在下方选择节点（支持自动选择最快节点）。
 
-![节点](https://img2.imgtp.com/2024/05/22/gc0yfjhJ.png "节点")
+![节点](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032337930.png "节点")
 
  ````
 常见故障排除：为什么几乎所有的节点都超时了？
@@ -114,7 +114,7 @@ Clash Verge 是代理工具 Clash 内核的 GUI 图形客户端，支持 Windows
 
 有些时候，系统代理会失灵，此时可以尝试关闭系统代理并打开 TUN 模式。     
 
-![节点](https://img2.imgtp.com/2024/05/22/top0uBEF.png "节点")
+![系统代理开启](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032338073.png "系统代理开启")
 
  ````
 即使机场的一些节点有足够高的速度和稳定性，但请不要使用机场打需要团队合作的在线游戏，请购买专门的游戏加速器。

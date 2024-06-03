@@ -21,8 +21,8 @@ author:                                     #自定义常亮
 title: 严琪博的技术博客                             #自定义常量
 
 # avatar头像及Favicon
-avatar:  https://img2.imgtp.com/2024/05/16/YjJ7RVVQ.jpg
-favicon: https://img2.imgtp.com/2024/05/16/eSRDO1YB.png
+avatar:  https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032300481.jpg
+favicon: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032346664.png
 
 locals:                                     #自定义常量
   tags: 标签
