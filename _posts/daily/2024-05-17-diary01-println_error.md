@@ -12,7 +12,7 @@ description:
 
 ##  问题描述
 
-![无法解析符号](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032217116.jpg "无法解析符号")
+![无法解析符号](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032225685.jpg "无法解析符号")
 
 可以看到，我这行代码提示无法解析println,我刚学java时跟着学校的课程走，老师讲的不是很生动，加上我半吊子的学习态度。自然而然在后续的敲代码过程中，各种问题百出。
 
