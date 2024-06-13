@@ -44,6 +44,6 @@ C:\Users\%USERNAME%\AppData\Roaming\Tencent\QQMusic\QQMusicCache
 
 ###   5、验证 这时候双击"downloadproxyNew"文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。
 &nbsp;
-![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131715328.png "出现权限提醒即表示成功")
+![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131744231.png "出现权限提醒即表示成功")
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">出现权限提醒即表示成功</center>
 &nbsp;
