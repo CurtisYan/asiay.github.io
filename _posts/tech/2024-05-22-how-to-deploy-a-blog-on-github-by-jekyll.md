@@ -7,7 +7,7 @@ keywords: Jekyll,Github
 description: 
 ---
 
-   
+
 > 本篇主要谈如何搭建，不再讲为什么用它们。使用可以看这里 -> [Jekyll中文网][1]
 
  
@@ -67,9 +67,9 @@ jekyll推荐目录结构：
 
 ```
 #  Site settings
-title: 严琪博的技术博客
-email: 3494499999@qq.com
-description: > #严琪博的技术博客
+title: 江南易的技术博客
+email: 3484488888@qq.com
+description: > #江南易的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://asiay.asia" # the base hostname & protocol for your site
 # url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
@@ -80,11 +80,11 @@ github_username:  CurtisYan
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
-  name: 严琪博
+  name: 江南易
   email: 3484488888@qq.com
   link: http://asiay.asia
   github: https://github.com/CurtisYan
-title: 严琪博的技术博客                             #自定义常量
+title: 江南易的技术博客                             #自定义常量
 
 #  avatar头像及Favicon
 avatar:  https://img2.imgtp.com/2024/05/16/YjJ7RVVQ.jpg
