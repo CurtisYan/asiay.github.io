@@ -21,13 +21,13 @@ description:
 
 下面是我为你总结的CS2竞技地图池的最新的中文报点。建议收藏！
 
-[炼狱小镇 = Inferno](#Inferno-1),  [荒漠迷城 = Mirage](#Mirage-1),  [核子危机 =Nuke](#Nuke-1),  [死亡游乐园 = Overpass](#Overpass-1),  [殒命大厦 = Vertigo](#Vertigo-1),  [远古遗迹 = Ancient](#Ancient-1),  [阿努比斯 = Anubis](#Anubis-1),  [炙热沙城Ⅱ = Dust2= 沙2](#Dust2-1)
+<a id = "Inferno-1">炼狱小镇 = Inferno</a>,  [荒漠迷城 = Mirage](#Mirage-1),  [核子危机 =Nuke](#Nuke-1),  [死亡游乐园 = Overpass](#Overpass-1),  [殒命大厦 = Vertigo](#Vertigo-1),  [远古遗迹 = Ancient](#Ancient-1),  [阿努比斯 = Anubis](#Anubis-1),  [炙热沙城Ⅱ = Dust2= 沙2](#Dust2-1)
 
 
 
-<a id = "Inferno-1">炼狱小镇</a>
 
-### 炼狱小镇
+
+### [炼狱小镇](#Inferno-1)
 ![Inferno-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936340.png)
 
 <a id = "Mirage-1"></a>
