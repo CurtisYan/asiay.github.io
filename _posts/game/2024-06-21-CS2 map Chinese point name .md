@@ -21,39 +21,39 @@ description:
 
 下面是我为你总结的CS2竞技地图池的最新的中文报点。建议收藏！
 
-[炼狱小镇 = Inferno](#Inferno-1),  [荒漠迷城 = Mirage](#Mirage-1),  [核子危机 =Nuke](#Nuke-1),  [死亡游乐园 = Overpass](#Overpass-1),  [殒命大厦 = Vertigo](#Vertigo-1),  [远古遗迹 = Ancient](#Ancient-1),  [阿努比斯 = Anubis](#Anubis-1),  [炙热沙城Ⅱ = Dust2= 沙2](#Dust2-1)
+[炼狱小镇 = Inferno](#inferno),  [荒漠迷城 = Mirage](#mirage),  [核子危机 =Nuke](#nuke),  [死亡游乐园 = Overpass](#overpass),  [殒命大厦 = Vertigo](#vertigo),  [远古遗迹 = Ancient](#ancient),  [阿努比斯 = Anubis](#anubis),  [炙热沙城Ⅱ = Dust2= 沙2](#dust)
 
 
 
 
 
-### 炼狱小镇 <a id = "Inferno-1"></a>
+### 炼狱小镇 <a id = "inferno"></a>
 ![Inferno-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936340.png)
 
 
-### 荒漠迷城 <a id = "Mirage-1"></a>
+### 荒漠迷城 <a id = "mirage"></a>
 ![Mirage-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936326.png)
 
 
-### 核子危机 <a id = "Nuke-1"></a>
+### 核子危机 <a id = "nuke"></a>
 ![Nuke-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936823.png)
 
 
-### 死亡游乐园 <a id = "Overpass-1"></a>
+### 死亡游乐园 <a id = "overpass"></a>
 ![Overpass-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936674.png)
 
 
-### 殒命大厦 <a id = "Vertigo-1"></a>
+### 殒命大厦 <a id = "vertigo"></a>
 ![Vertigo-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938304.png)
 
 
-### 远古遗迹 <a id = "Ancient-1"></a>
+### 远古遗迹 <a id = "ancient"></a>
 ![Ancient-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938548.png)
 
 
-### 阿努比斯 <a id = "Anubis-1"></a>
+### 阿努比斯 <a id = "anubis"></a>
 ![Anubis-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938500.png)
 
 
-### 炙热沙城Ⅱ <a id = "Dust2-1"></a>
+### 炙热沙城Ⅱ <a id = "dust"></a>
 ![Dust2-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938836.png)
