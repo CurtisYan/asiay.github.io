@@ -25,7 +25,7 @@ description:
 
 
 
-<a id = "Inferno-1"></a>
+<a id = "Inferno-1">炼狱小镇</a>
 
 ### 炼狱小镇
 ![Inferno-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936340.png)
