@@ -9,7 +9,7 @@ description:
 
 # CS2最新全图报点，细节超全！
 
-[封面图-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211934220.png)
+![封面图-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211934220.png)
 
 学习CS2的报点跟练习瞄准一样重要。既然你每天都玩这些地图，所以学起来应该更简单。
 
@@ -21,22 +21,22 @@ description:
 
 下面是我为你总结的CS2竞技地图池的最新的中文报点。建议收藏！
 
-炼狱小镇 = Inferno,  荒漠迷城 = Mirage,  核子危机 =Nuke,  死亡游乐园 = Overpass,  殒命大厦 = Vertigo,  远古遗迹 = Ancient,  阿努比斯 = Anubis,  炙热沙城Ⅱ = Dust2= 沙2
+[炼狱小镇 = Inferno](#Inferno-1),  [荒漠迷城 = Mirage](#Mirage-1),  [核子危机 =Nuke](#Nuke-1),  [死亡游乐园 = Overpass](#Overpass-1),  [殒命大厦 = Vertigo](#Vertigo-1),  [远古遗迹 = Ancient](#Ancient-1),  [阿努比斯 = Anubis](#Anubis-1),  [炙热沙城Ⅱ = Dust2= 沙2](#Dust2-1)
 
 
 
-[Inferno-1]https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936340.png)
+<span id = "Inferno-1">![Inferno-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936340.png)</span>
 
-[Mirage-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936326.png)
+<span id = "Mirage-1">![Mirage-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936326.png)</span>
 
-[Nuke-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936823.png)
+<span id = "Nuke-1">![Nuke-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936823.png)</span>
 
-[Overpass-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936674.png)
+<span id = "Overpass-1">![Overpass-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936674.png)</span>
 
-[Vertigo-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938304.png)
+<span id = "Vertigo-1">![Vertigo-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938304.png)</span>
 
-[Ancient-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938548.png)
+<span id = "Ancient-1">![Ancient-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938548.png)</span>
 
-[Anubis-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938500.png)
+<span id = "Anubis-1">![Anubis-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938500.png)</span>
 
-[Dust2-1](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938836.png)
+<span id = "Dust2-1">![Dust2-2](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938836.png)</span>
