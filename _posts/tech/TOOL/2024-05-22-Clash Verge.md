@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Clash Verge 教程
-category: 教学
-tags: 科学上网
+category: 工具 
+tags: 科学上网 tool
 keywords:
 description:
 ---
