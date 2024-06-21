@@ -1,7 +1,7 @@
 # Site settings
-title: 严琪博的技术博客
-email: 3494499999@qq.com
-description: > #严琪博的技术博客
+title: 江南易的技术博客
+email: 3484488888@qq.com
+description: > #江南易的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://asiay.asia" # the base hostname & protocol for your site
 # url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
@@ -13,7 +13,7 @@ github_username:  CurtisYan
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
-  name: 严琪博
+  name: 江南易
   email: 3484488888@qq.com
   link: http://asiay.asia
   github: https://github.com/CurtisYan
