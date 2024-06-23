@@ -81,7 +81,7 @@ CTRL清除血迹指令：`bind "ctrl" "+duck;r_cleardecals"`
 **CS2的4:3拉伸手感不对一定要改的指令：**`m_yaw 0.0165` <small>默认是0.022，csgo时期没改过的就别改了</small>
 
 像W跳投，快捷丢刀，滚轮跳等都可以在完美平台中设置
-![完美按钮设置](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231622256.png)
+<img src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231622256.png" alt="完美按钮设置" style="zoom: 33%;" />
 <br>
 
 ### 跑图指令
@@ -135,6 +135,14 @@ CTRL清除血迹指令：`bind "ctrl" "+duck;r_cleardecals"`
 `bind KP_5"bot_mimic_yaw_offset 180";`
 
 `bind KP_6 "bot_mimic_yaw_offset 0";`
+
+  
+
+### 快捷更换CS设置的方法（730文件夹）
+
+当我们玩别人号时，为了获得良好的游戏体验。总要调回自己的设置调半天，但是只要把cs里面存放设置cfg文件的文件夹保存下来即可快捷换号。
+
+![730](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231711364.png)
 
 
 
