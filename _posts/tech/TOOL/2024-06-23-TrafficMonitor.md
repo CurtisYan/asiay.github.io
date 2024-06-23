@@ -6,7 +6,7 @@ tags: TrafficMonitor tool
 keywords: TrafficMonitor,快捷,监视,悬浮窗,小组件
 description: 
 ---
-   
+
 > Traffic Monitor 是一款用于 Windows 平台的网速监控悬浮窗软件，可以显示当前网速、CPU 及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
 
  ![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231637535.jpg)
@@ -27,30 +27,33 @@ description:
 *历史流量统计
 
 *硬件信息监控
-  
+
 
 ## 主要功能
 下载好软件后双击打开，程序在启动后会在屏幕中显示一个网速的悬浮窗。在悬浮窗上单机右键可以弹出右键菜单，可也更改软件的所有设置。
 
 同时任务栏窗口支持自定义显示项目，默认情况下只显示网速，如果需要显示 CPU 和内存利用率，请在任务栏右键菜单中的“显示设置”子菜单下勾选需要显示的项目
-  
+
 ![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231641276.png)
-  
-    
+
+
 ![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643863.png)
-  
+
   <br>
-  
+
 历史流量统计功能。TrafficMonitor 支持查看历史流量，可以按天、周、月、季、年等进行统计。
 
 ![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643646.png)
-  
+
 而且这个软件也提供了这定义皮肤的功能除了软件提供的几个默认皮肤外观，用户可以根据自己的需求编辑自己喜欢的皮肤观样式。在主窗口或通知区图标右键菜单选择“其他功能”——“更换皮肤”可以打开换皮肤界面
+
+  
+
 ![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231648737.png)
-  
+
 ![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643795.png)
-  
-  
+
+
 ## 下载地址
 下载 TrafficMonitor 的最新版本
 
@@ -65,11 +68,10 @@ GitHub 下载页面  https://github.com/zhongyang219/TrafficMonitor/releases/
 
 <br>
 TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包含了所有的功能，Lite 版本则不包含温度监控、显卡利用率、硬盘利用率等硬件监控功能。普通版运行需要管理员权限，而 Lite 版本则不需要。
-  
+
 以下是两个版本功能对比。
 
 ![](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231651709.png)
-
 
 
 
