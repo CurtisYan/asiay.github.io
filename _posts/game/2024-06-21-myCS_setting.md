@@ -81,7 +81,7 @@ CTRL清除血迹指令：`bind "ctrl" "+duck;r_cleardecals"`
 **CS2的4:3拉伸手感不对一定要改的指令：**`m_yaw 0.0165` <small>默认是0.022，csgo时期没改过的就别改了</small>
 
 像W跳投，快捷丢刀，滚轮跳等都可以在完美平台中设置
-<img src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231622256.png" alt="完美按钮设置" style="zoom: 33%;" />
+<img src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231622256.png" alt="完美按钮设置" style="zoom: 50%;" />
 <br>
 
 ### 跑图指令
