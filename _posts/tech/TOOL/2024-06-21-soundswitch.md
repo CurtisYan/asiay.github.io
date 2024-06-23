@@ -3,7 +3,7 @@ layout: post
 title: SoundSwitch - 使用快捷键切换音频输入、输出设备[Windows]
 category: 工具
 tags: SoundSwitch tool
-keywords: SoundSwitch,快捷，切换，音频
+keywords: SoundSwitch,快捷,切换,音频
 description: 
 ---
 
