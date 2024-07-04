@@ -23,16 +23,20 @@ description:
 
 代码：
 
-`CSGO-D2vJL-VGer3-FPEtz-JttQd-97DRE`（十字）
-`SGO-qFLSa-CQS6a-aJWKN-QZNPC-LSJvM`（绿圆形）
-`CSGO-daEbe-dMEpY-7qzen-ECUyG-sjwjN`（小圆点）
-`CSGO-VDaMd-xedXq-kpWmd-aNv9e-KxQRO`（极小圆点）
-`CSGO-xStGr-MyZVQ-QDeJV-zYGxW-wOJvM`（黄小圆形）
-`CSGO-jQx5T-f7moo-kwd7v-om3hc-RMQNN`（donk小十字）
+`CSGO-D2vJL-VGer3-FPEtz-JttQd-97DRE`（十字）  
+`CSGO-qFLSa-CQS6a-aJWKN-QZNPC-LSJvM`（绿圆形）  
+`CSGO-daEbe-dMEpY-7qzen-ECUyG-sjwjN`（小圆点）  
+`CSGO-VDaMd-xedXq-kpWmd-aNv9e-KxQRO`（极小圆点）  
+`CSGO-xStGr-MyZVQ-QDeJV-zYGxW-wOJvM`（黄小圆形）  
+`CSGO-jQx5T-f7moo-kwd7v-om3hc-RMQNN`（donk小十字）    
 
 
 
-分辨率：*1920*1440    dpi：800*1.25，狙0.83*
+> 分辨率：1920*1440  
+>
+> dpi：800*1.25，狙0.83  
+>
+> m_yaw 0.0165
 
 
 

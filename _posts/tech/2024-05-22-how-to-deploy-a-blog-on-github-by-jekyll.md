@@ -68,7 +68,7 @@ jekyll推荐目录结构：
 ```
 #  Site settings
 title: 江南易的技术博客
-email: 3484488888@qq.com
+email: yanqibo123@outlook.com
 description: > #江南易的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://asiay.asia" # the base hostname & protocol for your site
@@ -81,7 +81,7 @@ permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
   name: 江南易
-  email: 3484488888@qq.com
+  email: yanqibo123@outlook.com
   link: http://asiay.asia
   github: https://github.com/CurtisYan
 title: 江南易的技术博客                             #自定义常量
@@ -288,7 +288,7 @@ git push
 
 另外一些特别的功能，比如三栏、评论、谷歌分析，这些都不难，相信你稍微打开Github读一下这个主题的代码就很快明白了。
 
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/CurtisYan)，本文发布在[严琪博的技术博客](https://www.asiay.asia/)，转载请注明出处
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/CurtisYan)，本文发布在[江南易的技术博客](https://www.asiay.asia/)，转载请注明出处
 
 代码地址戳[这里][6]
 
