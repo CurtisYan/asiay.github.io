@@ -68,7 +68,7 @@ CTRL清除血迹指令：`bind "ctrl" "+duck;r_cleardecals"`
 
 
 
-换手指令：`bindtoggle "v" "cl_righthand" 0 1`
+换手指令：`bindtoggle "v" "cl_righthand" 0 1` <small>设置中可以更改</small>
 
 持枪视角1：`viewmodel_fov68;viewmodel_offset_x2;viewmodel_offset_y 2;viewmodel_offset_z-2;viewmodel_presetpos 0;`
 
@@ -80,7 +80,7 @@ CTRL清除血迹指令：`bind "ctrl" "+duck;r_cleardecals"`
 
 手臂晃动开启：`cl_usenewbob 1`   <small>CS2开启手臂晃动实际体验更舒服</small>
 
-一键静音：`bind 任意键 "toggle voice_modenable 1 0"`  <small>残局专用</small>
+一键静音：`bind 任意键 "toggle voice_modenable 1 0"`  <small>残局专用，<small>设置中可以更改</small></small>
 
 **CS2的4:3拉伸手感不对一定要改的指令：**`m_yaw 0.0165` <small>默认是0.022，csgo时期没改过的就别改了</small>
 
@@ -137,7 +137,16 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
 
 `bind KP_6 "bot_mimic_yaw_offset 0";`
 
-  
+
+### 练枪图指令：
+<small><small>用于练枪图随机刷新失效情况下</small></small>
+
+按照顺序输入
+
+指令1: `mp_randomspawn 1`随机刷新
+
+指令2: `mp_restartgame 1` 重开游戏
+
 
 ### 快捷更换CS设置的方法（730文件夹）
 
