@@ -62,9 +62,23 @@ CTRL清除血迹指令：`bind "ctrl" "+duck;r_cleardecals"`
 
 ---
 
-一键跳投：`bind "c""+jump;-attack;-jump"`
+##### 一键跳投
 
-前两个放exec文件里：`alias +jp "+jump;-jump" alias +ak "-attack;-attack2" bind 任意按鍵 "+jp;+ak"`
+1.steam cs2 右键管理浏览本地文件 路径 game -csgo-cfg
+
+2.创建一个文本文档名字autoexec后缀改成.cfg
+
+把这段复制进去
+
+alias +jp "+jump;-jump"
+
+alias +ak "-attack;-attack2"
+
+然后保存
+
+3.打开cs2指令台输bind c "+jp;+ak"
+
+这个c就是一键跳投，你习惯啥键就绑啥键
 
 
 
