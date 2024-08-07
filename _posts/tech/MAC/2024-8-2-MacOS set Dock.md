@@ -23,4 +23,3 @@ description:
 如果想要恢复原来默认的延迟速度，就在终端输入如下代码并回车即可：
 
  `defaults delete com.apple.Dock autohide-delay && killall Dock` 
-
